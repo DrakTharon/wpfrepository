@@ -1,0 +1,14 @@
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\bin\Debug\mvvm2.exe.config
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\bin\Debug\mvvm2.exe
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\bin\Debug\mvvm2.pdb
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.csprojResolveAssemblyReference.cache
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\MainWindow.g.cs
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\App.g.cs
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2_MarkupCompile.cache
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2_MarkupCompile.lref
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\MainWindow.baml
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.g.resources
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.Properties.Resources.resources
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.csproj.GenerateResource.Cache
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.exe
+C:\Users\Рустем\Desktop\проекты\mvvm2\mvvm2\obj\Debug\mvvm2.pdb
